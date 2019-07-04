@@ -1,0 +1,23 @@
+{
+  "name": "20-3-webpack-configuration",
+  "version": "1.0.0",
+  "description": "first webpack configuration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwabe/20-3-webpack-configuration.git"
+  },
+  "keywords": [
+    "webpack",
+    "configuration"
+  ],
+  "author": "bebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwabe/20-3-webpack-configuration/issues"
+  },
+  "homepage": "https://github.com/dwabe/20-3-webpack-configuration#readme"
+}
