@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/dwabe/20-3-webpack-configuration/issues"
   },
-  "homepage": "https://github.com/dwabe/20-3-webpack-configuration#readme"
+  "homepage": "https://github.com/dwabe/20-3-webpack-configuration#readme",
+  "devDependencies": {
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  }
 }
